@@ -1,0 +1,9 @@
+.poojaContainer{
+    display: flex;
+    justify-items: normal;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.poojaItem{
+    padding: "20px"
+}
